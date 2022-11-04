@@ -1,6 +1,6 @@
-# Locally saved JavaScript Countdown Timer 
+# Content Parsing & Generating Category Links
 
 ## Description
-A countdown timer written in JavaScript, that is saved locally so that on refresh it continues form previous position
+A work in progress of parsing content to create clickable subsections/categories of a page  
 
 ![image info](./job%20description.PNG)
